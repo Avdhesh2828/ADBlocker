@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>My First Heading</h1>
+
+ <h1>This is heading 1</h1>
+      <h2>This is heading 2</h2>
+      <h3>This is heading 3</h3>
+      <h4>This is heading 4</h4>
+      <h5>This is heading 5</h5>
+      <h6>This is heading 6</h6>
+	<h1>This is <i>italic</i> heading</h1>
+	<p>This is <u>underlined</u> paragraph</p>
+	 <pre>
+         function testFunction( strText ){
+            alert (strText)
+         }
+      </pre>
+
+<p align = "left">This is left aligned</p>
+      <p align = "center">This is center aligned</p>
+      <p align = "right">This is right aligned</p>
+<p>Hello<br />
+         ~:You delivered your assignment ontime.<br />
+	<hr />
+         Thanks<br />
+         Avdhesh</p>
+<p>My first paragraph.</p>
+
+	<center>
+         <p>This text is in the center.</p>
+      </center>
+</body>
+</html>
